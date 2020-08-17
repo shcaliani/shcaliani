@@ -6,9 +6,6 @@ Entusiasta em Tecnologia e Pessoas.
 [![Linkedin Badge](https://img.shields.io/badge/-Sergio%20Caliani-crimson?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiohcaliani/)](https://www.linkedin.com/in/sergiohcaliani/) 
 [![Gmail Badge](https://img.shields.io/badge/-shcaliani@gmail-crimson?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shcaliani@gmail.com)](mailto:shcaliani@gmail.com)
 
-----------
-Aqui você encontrará alguns eBooks com definições, conceitos.
-Sumários para um estudo.
-----------
+## Aqui você encontrará alguns eBooks com definições, conceitos.
 
-"Entre aspas"
+!!!! Sumários para estudo
