@@ -8,6 +8,6 @@ Entusiasta em Tecnologia e Pessoas.
 [![Blogger Badge](https://img.shields.io/badge/-http://caixadeleitura.blogspot.com/-blueviolet?style=flat-square&logo=Blogger&logoColor=white&link=http://caixadeleitura.blogspot.com/)](//caixadeleitura.blogspot.com/)
 ___
 
-## Aqui você encontra eBooks com definições, conceitos.
+### Aqui você encontra eBooks com definições e conceitos. 
 
 ### Sumários para estudo
