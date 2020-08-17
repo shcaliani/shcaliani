@@ -8,4 +8,4 @@ Entusiasta em Tecnologia e Pessoas.
 
 ## Aqui você encontrará alguns eBooks com definições, conceitos.
 
-Sumários para estudo!!!!
+!!!!Sumários para estudo
