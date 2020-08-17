@@ -11,3 +11,5 @@ ___
 ## Aqui você encontra eBooks com definições, conceitos.
 
 ### Sumários para estudo
+
+[![Hotmail Badge](https://www.nextpng.com/pt/transparent-png-zygmy/-shcaliani@hotmail.com-lightcoral?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shcaliani@hotmail.com)](mailto:shcaliani@hotmail.com)
